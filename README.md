@@ -1,4 +1,4 @@
-# 🔍 GUI-Based Port Scanner Using Python
+#  GUI-Based Port Scanner Using Python
 
 A fast, multithreaded **Port Scanner Tool** with a sleek GUI built in Python using Tkinter, socket programming, and threading. Developed during a **Cybersecurity Internship at Tamizhan Skills**, this tool demonstrates how to identify open and closed ports on a given IP address or domain, assess network surface area, and visualize port states in real-time.
 
