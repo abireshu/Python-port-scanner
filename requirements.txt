@@ -1,0 +1,4 @@
+All required modules are part of the Python standard library:
+
+tk
+python>=3.7
